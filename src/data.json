@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Manoj",
+    "enrollment": "LP/1245/22",
+    "plan": "12 Month",
+    "amount": 2000,
+    "paidOn": "2023-12-06",
+    "membershipStatus": "APPROVED",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "enrollment": "LP/1246/22",
+    "plan": "6 Month",
+    "amount": 1500,
+    "paidOn": "2023-11-15",
+    "membershipStatus": "PENDING",
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "name": "Jane",
+    "enrollment": "LP/1247/22",
+    "plan": "3 Month",
+    "amount": 1000,
+    "paidOn": "2023-10-20",
+    "membershipStatus": "EXPIRED",
+    "status": "expired"
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "enrollment": "LP/1246/22",
+    "plan": "6 Month",
+    "amount": 1500,
+    "paidOn": "2023-11-15",
+    "membershipStatus": "PENDING",
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "name": "Bob",
+    "enrollment": "LP/1249/22",
+    "plan": "12 Month",
+    "amount": 2200,
+    "paidOn": "2023-08-25",
+    "membershipStatus": "PENDING",
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "name": "Jane",
+    "enrollment": "LP/1247/22",
+    "plan": "3 Month",
+    "amount": 1000,
+    "paidOn": "2023-10-20",
+    "membershipStatus": "EXPIRED",
+    "status": "expired"
+  }
+
+]
