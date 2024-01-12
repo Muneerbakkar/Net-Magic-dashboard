@@ -196,7 +196,7 @@ function App() {
           </div>
 
           <Table data={tableData} />
-          <div className="bg-white border-gray-300 flex justify-end px-4 py-2 rounded-b-lg shadow-lg">
+          <div className="bg-white border-gray-300 flex justify-end px-4 py-2 lg:rounded-b-lg shadow-lg">
             <PageNumberSelector />
             <div className="flex items-center">
               <button>
